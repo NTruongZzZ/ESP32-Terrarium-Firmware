@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "firmware_url": "https://raw.githubusercontent.com/NTruongZzZ/ESP32-Terrarium-Firmware/refs/heads/main/Terrarium_integrated.ino",
+  "firmware_url": "https://raw.githubusercontent.com/NTruongZzZ/ESP32-Terrarium-Firmware/refs/heads/main/Terrarium_integrated.ino.bin",
   "sha256": "95c395800249b0163cea5731a5a08b17140ff1149e9b931e8851ecf29d9f1639",
   "size": 1224080
 }
